@@ -5,7 +5,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>React Web App (React, NodeJS)</b>
-  - [Movieland](https://github.com/Matttastic/MovieLand) 
+  - [Movieland](https://github.com/Matttastic/MovieLand)
+ - <b>Microsoft Windows Defender and Firewall Practice</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📃 Certifications</h2>
@@ -15,6 +17,8 @@
 -[HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/KFKCK7Z8D8KC)
 
 -[Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/R6MW57R8GJE9)
+
+-[Microsoft Windows Defender and Firewall](https://www.coursera.org/account/accomplishments/certificate/6GWQV9SZNQC2)
 
 <h2>📺 Popular YouTube Videos</h2>
 
