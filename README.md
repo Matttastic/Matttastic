@@ -10,8 +10,9 @@
 
 <h2>📃Certifications</h2>
 
--[Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/LFC7VNAKTVNH)
-
+-[Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LFC7VNAKTVNH)
+-[HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/KFKCK7Z8D8KC)
+-[Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/R6MW57R8GJE9)
 
 <h2>📺 Popular YouTube Videos</h2>
 
