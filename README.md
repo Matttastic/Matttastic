@@ -6,9 +6,9 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>React Web App (React, NodeJS)</b>
   - [Movieland](https://github.com/Matttastic/MovieLand)
- - <b>Microsoft Windows Defender and Firewall Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>Microsoft Firewall Configuration Lab</b>
+  - [Microsoft Firewall Lab](https://github.com/Matttastic/Microsoft-Firewall-Lab)
+ 
 
 <h2>📃 Certifications</h2>
 
