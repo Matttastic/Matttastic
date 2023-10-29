@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity and Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Analyze Network Traffic with TCPDump and Wireshark</b>
+  - [Analyze Network Traffic](https://github.com/Matttastic/Analyze-Newtork-Traffic-with-TCPDump/blob/main/README.md)
 - <b>React Web App (React, NodeJS)</b>
   - [Movieland](https://github.com/Matttastic/MovieLand)
 - <b>Microsoft Firewall Configuration Lab</b>
@@ -19,6 +19,8 @@
 -[Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/R6MW57R8GJE9)
 
 -[Microsoft Windows Defender and Firewall](https://www.coursera.org/account/accomplishments/certificate/6GWQV9SZNQC2)
+
+-[Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/BVVF86XCLHR7)
 
 <h2>📺 Popular YouTube Videos</h2>
 
