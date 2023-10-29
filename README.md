@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and Web Development Projects:</h2>
 
 - <b>Analyze Network Traffic with TCPDump and Wireshark</b>
-  - [Analyze Network Traffic](https://github.com/Matttastic/Analyze-Newtork-Traffic-with-TCPDump/blob/main/README.md)
+  - [Analyze Network Traffic](https://github.com/Matttastic/Analyze-Network-Traffic-with-TCPDump/blob/main/README.md)
 - <b>React Web App (React, NodeJS)</b>
   - [Movieland](https://github.com/Matttastic/MovieLand)
 - <b>Microsoft Firewall Configuration Lab</b>
