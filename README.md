@@ -12,6 +12,10 @@
 
 <h2>📃 Certifications</h2>
 
+-[CompTia Security+ CE](https://www.credly.com/badges/7ad5237b-f96e-44a6-a59e-c2806bc746c5/public_url)
+
+-[Microsoft Azure Certified](https://learn.microsoft.com/api/credentials/share/en-us/MatthewVincent-1783/915CF74166329102?sharingId=DAE4DC90A3B40CF)
+
 -[Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LFC7VNAKTVNH)
 
 -[HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/KFKCK7Z8D8KC)
