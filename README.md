@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matt-j-vincent">Cybersecurity Professional</a>, <a href="https://github.com/Matttastic">Web Developer</a>
+<h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matt-j-vincent">Cybersecurity Professional</a>, <a href="https://github.com/Matttastic">Network Engineer</a>
 
 <h2>👨‍💻 Cybersecurity and Web Development Projects:</h2>
 
